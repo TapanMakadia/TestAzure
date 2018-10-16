@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="GoldenDBConnectionString-Web.config Connection String" description="GoldenDBConnectionString Connection String used in web.config by the application to access the database." defaultValue="Data Source=sqlserver110.database.windows.net;Initial Catalog=GoldenDB;Persist Security Info=True;User ID=sysadmin;Password=Report^868)" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\tapan\.makadia\\documents\\visual\ studio\ 2017\\Projects\\MyFirstAzureWebApp\\MyFirstAzureWebApp\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='GoldenDBConnectionString']/@connectionString" />
+  </parameter>
+</parameters>
